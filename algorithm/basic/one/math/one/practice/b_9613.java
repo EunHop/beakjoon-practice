@@ -1,4 +1,4 @@
-package algorithm.basic.one.data.math.one.practice;
+package algorithm.basic.one.math.one.practice;
 
 import java.io.BufferedReader;
 import java.io.IOException;
